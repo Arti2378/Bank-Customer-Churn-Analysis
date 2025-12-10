@@ -23,6 +23,9 @@ The goal of this dashboard is to provide a comprehensive analysis of customer ch
 ## 📌 Conclusion
 The insights from this dashboard help the bank prioritize retention efforts on the most vulnerable customer segments. By focusing on age groups, account activity, product usage, the bank can implement targeted interventions that may reduce churn by 15-18%.
 
+## Dashboard Overview
+![Dashboard Screenshot](screenshots/Dashboard_overview.PNG)
+
 
 
 
